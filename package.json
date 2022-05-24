@@ -1,0 +1,25 @@
+{
+  "name": "soyyo",
+  "version": "1.0.0",
+  "description": "Test ingreso soyyo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js",
+    "start": "node ./index.js"
+  },
+  "repository": "test-soyyo",
+  "author": "Andres Medina",
+  "license": "MIT",
+  "dependencies": {
+    "aws-serverless-express": "^3.4.0",
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jest": "^28.1.0",
+    "lock": "^1.1.0",
+    "nodemon": "^2.0.16",
+    "prettier": "^2.6.2",
+    "yarn.lock": "^0.0.1-security"
+  }
+}
