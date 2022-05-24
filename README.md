@@ -2,7 +2,7 @@
 
 **Información importante:**
 
-La siguiente Api se realiza con longitudes de programación Nodejs, el fin de este proyecto se conecta a una API REST con información de clientes en formato JSON.
+La siguiente Api se realiza con lenguaje de programación Nodejs, el fin de este proyecto se conecta a una API REST con información de clientes en formato JSON.
 
 **Instalacion:**
 Instalar Nodejs para poder ejecutar el proyecto, despues de descargar el repositorio poner comando en consola yarn install, para instalar el node_modules. Puerto de ejecución http://localhost:3000
